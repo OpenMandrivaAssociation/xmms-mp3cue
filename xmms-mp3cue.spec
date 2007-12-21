@@ -13,6 +13,7 @@ BuildRequires:	libxmms-devel glib-devel gtk+1.2-devel
 Requires:	xmms
 Url:		http://brianvictor.tripod.com/mp3cue.htm
 Source:		%rname-%version.tar.bz2
+BuildRoot:	%_tmppath/%name-buildroot
 
 %description
 XMMS mp3cue adds cue file support to XMMS. Cue files store information (Artist,
