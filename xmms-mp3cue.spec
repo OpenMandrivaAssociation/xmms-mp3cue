@@ -1,7 +1,7 @@
 %define name	xmms-mp3cue
 %define	rname	XMMS-mp3cue
 %define version	0.94
-%define release	%mkrel 9
+%define release	%mkrel 10
 
 Name:		%name
 Summary:	Support for cue files to XMMS
