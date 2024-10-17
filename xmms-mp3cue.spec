@@ -11,7 +11,7 @@ Group:		Sound
 License:	GPL
 BuildRequires:	libxmms-devel glib-devel gtk+1.2-devel
 Requires:	xmms
-Url:		http://brianvictor.tripod.com/mp3cue.htm
+Url:		https://brianvictor.tripod.com/mp3cue.htm
 Source:		%rname-%version.tar.bz2
 BuildRoot:	%_tmppath/%name-buildroot
 
