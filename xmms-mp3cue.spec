@@ -9,6 +9,11 @@ Version:	%version
 Release:	%release
 Group:		Sound
 License:	GPL
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libxmms-devel glib-devel gtk+1.2-devel
 Requires:	xmms
 Url:		https://brianvictor.tripod.com/mp3cue.htm
